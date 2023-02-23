@@ -1,4 +1,3 @@
-### Prueba
 ## Esenciales
 
 * Permissions Manager 
