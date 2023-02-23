@@ -7,10 +7,10 @@
   
 * Zone Manager
   * Plugin: [https://umod.org/plugins/zone-manager]
-  * Tuto:   []
+  * Tuto:   [ EN ESPERA ]
   * Desc:   Proteger zonas, prohibir la entrada, matarte, etc.
   
 * No give notices
   * Plugin: [https://umod.org/plugins/no-give-notices]
-  * Tuto:   [//]
+  * Tuto:   [ // ]
   * Desc:   No muestra en el chat los items spawneados por los admins.
