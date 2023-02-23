@@ -5,11 +5,13 @@
   Tuto:   [https://www.youtube.com/watch?v=LSn6hzYGTFg]
   Desc:   Esencial, sobretodo con la cantidad de admins que son, y para acceder lo menos posible al terminal
 
+
 * Zone Manager
   Plugin: [https://umod.org/plugins/zone-manager]
   Tuto:   []
   Desc:   Proteger zonas, prohibir la entrada, matarte, etc
-
+  
+  
 * No give notices
   Plugin: [https://umod.org/plugins/no-give-notices]
   Tuto:   [//]
