@@ -5,10 +5,10 @@
     * Tuto:   [https://www.youtube.com/watch?v=LSn6hzYGTFg]
     * Desc:   Esencial, sobretodo con la cantidad de admins que son, y para acceder lo menos posible al terminal
 
-* Zone Manager  [NO FUNCIONA]                                           
-    Plugin: [https://umod.org/plugins/zone-manager]
-    Tuto:   [ EN ESPERA ]
-    Desc:   Proteger zonas, prohibir la entrada, matarte, etc
+* Zone Manager [NO FUNCIONA] 
+    * [NO FUNCIONA] Plugin: [https://umod.org/plugins/zone-manager]
+    * [NO FUNCIONA] Tuto:   [ EN ESPERA ]
+    * [NO FUNCIONA] Desc:   Proteger zonas, prohibir la entrada, matarte, etc
 
 * No give notices
     * Plugin: [https://umod.org/plugins/no-give-notices]
@@ -61,7 +61,7 @@
 * Admin Map
     * Plugin: [https://umod.org/plugins/admin-map]
     * Tuto:   [ // ]
-    * Desc:   
+    * Desc:   Muestra todos los jugadores en el mapa
 
 # Basicos
 
