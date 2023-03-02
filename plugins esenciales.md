@@ -7,7 +7,7 @@
 
 * Zone Manager [NO FUNCIONA] 
     * [NO FUNCIONA] Plugin: [https://umod.org/plugins/zone-manager]
-    * [NO FUNCIONA] Tuto:   [ EN ESPERA ]
+    - [NO FUNCIONA] Tuto:   [ EN ESPERA ]
     * [NO FUNCIONA] Desc:   Proteger zonas, prohibir la entrada, matarte, etc
 
 * No give notices
@@ -75,3 +75,5 @@
 # Opcionales
 
 # Sustitutos
+
+*-+
